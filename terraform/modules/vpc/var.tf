@@ -1,15 +1,15 @@
 variable "key_name" {
-   default = "ore-adi"
+   default = "demo-vir"
   
 }
 
 variable "instance_type" {
-    default = "t2.micro"
+    default = "t3.micro"
   
 }
 
 variable "image_id" {
-   default = "ami-075686beab831bb7f"
+   default = "ami-0ecb62995f68bb549"
 
   
 }
